@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Bankline_Android</string>
+    <string name="hello_word">Hello Word</string>
 </resources>
