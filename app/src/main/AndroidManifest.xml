@@ -20,6 +20,7 @@
         </activity>
         <activity
             android:name=".ui.statement.BankStatementActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
             android:exported="false"
             android:parentActivityName=".ui.welcome.WelcomeActivity"/>
     </application>
